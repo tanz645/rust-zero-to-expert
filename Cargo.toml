@@ -1,0 +1,8 @@
+# Rust: Zero → Expert · student exercises
+# One crate per lesson day. Run one with:  cargo run -p day001_why_rust
+[workspace]
+members = ["day*"]
+resolver = "3"
+
+[workspace.package]
+edition = "2024"

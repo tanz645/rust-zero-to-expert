@@ -1,0 +1,4 @@
+# Pinned so every lesson's code and compiler messages match the videos.
+[toolchain]
+channel = "1.98.1"
+components = ["rustfmt", "clippy"]
