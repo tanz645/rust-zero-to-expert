@@ -1,6 +1,6 @@
 # Day 2 · Install Rust & run your first program
 
-▶ Video: _link added at publish_ · 📖 Rust by Example: [Hello World](https://doc.rust-lang.org/rust-by-example/hello.html) · [Playground](https://doc.rust-lang.org/rust-by-example/meta/playground.html)
+▶ Video: [Day 2 on YouTube](https://www.youtube.com/watch?v=1Fr9lXlpKRY) · 📖 Rust by Example: [Hello World](https://doc.rust-lang.org/rust-by-example/hello.html) · [Playground](https://doc.rust-lang.org/rust-by-example/meta/playground.html)
 
 ## 1. Install Rust
 

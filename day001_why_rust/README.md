@@ -1,6 +1,6 @@
 # Day 1 · Why Rust? (and how your code actually runs)
 
-▶ Video: _link added at publish_ · 📖 Rust by Example: [Hello World](https://doc.rust-lang.org/rust-by-example/hello.html)
+▶ Video: [Day 1 on YouTube](https://www.youtube.com/watch?v=wMsujLrYhe0) · 📖 Rust by Example: [Hello World](https://doc.rust-lang.org/rust-by-example/hello.html)
 
 No install needed today. Open <https://play.rust-lang.org>, paste [`src/main.rs`](src/main.rs) and press **Run**.
 

@@ -1,6 +1,6 @@
 # Day 3 · The Cargo workflow
 
-▶ Video: _link added at publish_ · 📖 Rust by Example: [Cargo](https://doc.rust-lang.org/rust-by-example/cargo.html) · [Tests](https://doc.rust-lang.org/rust-by-example/cargo/test.html)
+▶ Video: [Day 3 on YouTube](https://www.youtube.com/watch?v=ufgvI7LQ6L4) · 📖 Rust by Example: [Cargo](https://doc.rust-lang.org/rust-by-example/cargo.html) · [Tests](https://doc.rust-lang.org/rust-by-example/cargo/test.html)
 
 [`src/main.rs`](src/main.rs) has **four problems on purpose**. You don't need to find them yourself: cargo will.
 
