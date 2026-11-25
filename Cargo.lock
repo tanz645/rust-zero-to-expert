@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "day002_install_rust"
 version = "0.1.0"
+
+[[package]]
+name = "day003_cargo"
+version = "0.1.0"

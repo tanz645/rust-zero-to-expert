@@ -8,6 +8,8 @@ cargo test -p day003_cargo        # check a lesson's exercises (from Day 3 on)
 ```
 
 The toolchain is pinned in `rust-toolchain.toml` so compiler messages match the videos.
+From Day 3 on, starter code may contain warnings, messy formatting or failing tests **on purpose**: that's the exercise.
+So run commands for one lesson at a time with `-p dayNNN_…`, not for the whole workspace.
 Solutions are published on the `solutions` branch 7 days after each video.
 
 Not affiliated with the Rust Foundation. Some examples are adapted from
