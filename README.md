@@ -7,6 +7,7 @@ One folder per lesson day. Each has a `README.md` with the tasks and a starter c
 | 1 | Why learn Rust? How your code actually runs | [▶ Watch](https://www.youtube.com/watch?v=wMsujLrYhe0) | [`day001_why_rust`](day001_why_rust) |
 | 2 | Install Rust & write your first program | [▶ Watch](https://www.youtube.com/watch?v=1Fr9lXlpKRY) | [`day002_install_rust`](day002_install_rust) |
 | 3 | The Cargo workflow: check, run, fmt, clippy & test | [▶ Watch](https://www.youtube.com/watch?v=ufgvI7LQ6L4) | [`day003_cargo`](day003_cargo) |
+| 4 | Anatomy of a Rust program & comments | [▶ Watch](https://www.youtube.com/watch?v=1xdVQSOrFA8) | [`day004_anatomy`](day004_anatomy) |
 
 ```bash
 cargo run -p day001_why_rust      # run a lesson's program
