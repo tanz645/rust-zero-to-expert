@@ -8,6 +8,7 @@ One folder per lesson day. Each has a `README.md` with the tasks and a starter c
 | 2 | Install Rust & write your first program | [▶ Watch](https://www.youtube.com/watch?v=1Fr9lXlpKRY) | [`day002_install_rust`](day002_install_rust) |
 | 3 | The Cargo workflow: check, run, fmt, clippy & test | [▶ Watch](https://www.youtube.com/watch?v=ufgvI7LQ6L4) | [`day003_cargo`](day003_cargo) |
 | 4 | Anatomy of a Rust program & comments | [▶ Watch](https://www.youtube.com/watch?v=1xdVQSOrFA8) | [`day004_anatomy`](day004_anatomy) |
+| 5 | Printing & placeholders: println!, format!, eprintln! | [▶ Watch](https://www.youtube.com/watch?v=PO5e7TG11Ks) | [`day005_printing`](day005_printing) |
 
 ```bash
 cargo run -p day001_why_rust      # run a lesson's program

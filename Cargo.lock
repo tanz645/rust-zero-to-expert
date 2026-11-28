@@ -17,3 +17,7 @@ version = "0.1.0"
 [[package]]
 name = "day004_anatomy"
 version = "0.1.0"
+
+[[package]]
+name = "day005_printing"
+version = "0.1.0"
